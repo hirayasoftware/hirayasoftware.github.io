@@ -11,9 +11,9 @@
 			<provides>music</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">Noise</summary>
@@ -36,9 +36,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">MITELE</summary>
@@ -61,9 +61,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">EITB</summary>
@@ -86,9 +86,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">RTVE</summary>
@@ -111,9 +111,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">TV3</summary>
@@ -138,9 +138,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-			<info>http://hirayasoftware.com/repo/addons.xml</info>
-			<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-			<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">ATRESPLAYER</summary>
