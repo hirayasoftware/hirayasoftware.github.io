@@ -154,4 +154,74 @@
 	        <video_guide></video_guide>
 		</extension>
 	</addon>
+	<addon id="plugin.audio.onair" name="On Air" version="1.0.0" provider-name="Alex303 - Hiraya Software">
+		<requires>
+			<import addon="xbmc.python" version="2.19.0" />
+			<import addon="script.module.requests" version="2.9.1" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio video</provides>
+		</extension>
+		<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
+			<info>https://hirayasoftware.github.io/addons.xml</info>
+			<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">On Air</summary>
+			<description lang="en">Addon with thousands of radios from around the world!</description>
+			<disclaimer lang="en">This addon does not store any content. All the links are from the internet.</disclaimer>
+			<summary lang="es">On Air</summary>
+			<description lang="es">Addon con miles de radios de alrededor del mundo!</description>
+			<disclaimer lang="es">Este addon no almacena ningun contenido. Todas los links son de internet.</disclaimer>
+			<platform>all</platform>
+	        <website></website>
+	        <video_guide></video_guide>
+		</extension>
+	</addon>
+	<addon id="plugin.video.foodandtravel" name="Food and Travel" version="1.0.0" provider-name="Alex303 - Hiraya Software">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.addon.common" version="2.0.0"/>
+			<import addon="plugin.video.youtube" version="5.0.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Food and Travel Addon</summary>
+			<description lang="en">Food and Travel Addon</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="plugin.video.insession" name="In Session" version="1.0.0" provider-name="Alex303 - Hiraya Software">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.addon.common" version="2.0.0"/>
+			<import addon="plugin.video.youtube" version="5.0.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">In Session Addon</summary>
+			<description lang="en">In Session Addon by Hiraya Software. Enjoy!</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="plugin.video.magufo" name="Magufo" version="1.0.0" provider-name="Alex303 - Hiraya Software">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.addon.common" version="2.0.0"/>
+			<import addon="plugin.video.youtube" version="5.0.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Canales sobre el misterio y otros</summary>
+			<description lang="en">Canales sobre el misterio y otros temas cientificos. Actualizamos a diario :)</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
 </addons>
