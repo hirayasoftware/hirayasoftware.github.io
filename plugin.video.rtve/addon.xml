@@ -8,9 +8,9 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.repository" name="Hiraya Software Repo">
-		<info>http://hirayasoftware.com/repo/addons.xml</info>
-		<checksum>http://hirayasoftware.com/repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://hirayasoftware.com/repo/</datadir>
+		<info>https://hirayasoftware.github.io/addons.xml</info>
+		<checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+		<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">RTVE</summary>
