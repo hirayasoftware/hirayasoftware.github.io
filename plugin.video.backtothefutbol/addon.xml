@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.backtothefutbol" name="BACK to the FUTBOL" version="1.0.4" provider-name="Alex303 - Hiraya Software">
+<addon id="plugin.video.backtothefutbol" name="BACK to the FUTBOL" version="1.0.5" provider-name="Alex303 - Hiraya Software">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.requests" version="2.9.1" />
@@ -13,16 +13,16 @@
 		<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">FOOTBALLIA</summary>
-		<description lang="en">FOOTBALLIA Addon
+		<summary lang="en">BACK to the FUTBOL</summary>
+		<description lang="en">BACK to the FUTBOL Addon
 
 Desarrollo: Alex 303
 Colaboradores: MiKel, Toni, Chikiry
 Logo: Bojbit
 Agradecimientos: Picapau y todo el equipo de KGI</description>
 		<disclaimer lang="en">Addon con partidos de fútbol repetidos.</disclaimer>
-		<summary lang="es">FOOTBALLIA</summary>
-		<description lang="es">FOOTBALLIA Addon
+		<summary lang="es">BACK to the FUTBOL</summary>
+		<description lang="es">BACK to the FUTBOL Addon
 
 Desarrollo: Alex 303
 Colaboradores: MiKel, Toni, Chikiry
