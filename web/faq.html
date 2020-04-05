@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>jQuery UI Accordion - Default functionality</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+      $(function(){$("#accordion1").accordion();});
+      $(function(){$("#accordion2").accordion();});
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Concert+One|Do+Hyeon|Gugi|Khand|Lobster|Rajdhani|Quantico|Montserrat|Share+Tech+Mono" rel="stylesheet" />
+    <style>
+      *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Montserrat', sans-serif;
+      }
+      body{
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 0 5px;
+      }
+      .main-title{
+        padding: 10px 0;
+        background-color: black;
+        color: white;
+        font-size: 28px;
+        position: fixed;
+        width: 100%;
+        left: 0;
+      }
+      p{
+        padding: 5px 15px;
+        font-size: 14px;
+      }
+      .texto p{
+        padding: 0px 0px 0px 15px;
+        font-size: 14px;
+      }
+      h1{
+        text-align: center;
+        padding: 30px 0 20px;
+        font-size: 26px;
+        font-family: 'Rajdhani', sans-serif;
+      }
+      .addon{
+        border-bottom: 1px black solid;
+        width: calc(100% - 40px);
+        margin-bottom: 20px;
+        padding: 0 20px 20px;
+        background-color: white;
+      }
+      .addon h2{
+        color: #616161;
+        font-size: 20px;
+        font-family: 'Rajdhani', sans-serif;
+        border-bottom: 1px #cccccc solid;
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      .addon .imagen{
+        padding: 10px;
+      }
+      .addon .imagen img{
+        width: 100%;
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.5);
+        border-radius: 10px;
+      }
+      .addon .desc{
+        color: #000;
+        padding: 10px;
+        font-size: 14px;
+      }
+      .addon .desc a{
+        display: block;
+        margin: 10px auto;
+        width: 50%;
+        text-align: center;
+        color: white;
+        background-color: #333;
+        padding: 15px 0px;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-top: 20px;
+      }
+
+      .addon .dep .imagen{
+        display: inline-block;
+        width: 30%;
+      }
+      .addon .dep .texto{
+        display: inline-block;
+        width: 60%;
+        vertical-align: top;
+        padding-top: 10px;
+      }
+
+      .ui-accordion .ui-accordion-content{
+        padding: 1em;
+        height: unset !important;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 class="main-title">HIRAYA SOFTWARE</h1>
+
+    <h1 style="padding-top: 80px;">Dudas, preguntas, sugerencias</h1>
+    <div id="accordion1">
+      <h3>Tengo una duda o pregunta</h3>
+      <div>
+        <p>Si tienes cualquier duda o pregunta, hazla en nuestro grupo y espera tu turno para ser atendido en privado de forma totalmente personal.</p>
+      </div>
+      <h3>Tengo una sugerencia</h3>
+      <div>
+        <p>Si tienes una sugerencia, hazla directamente en nuestro grupo, y el equipo de Hiraya Software atenderá tu petición y la tendrá en cuenta para implementar tu mejora o idea en nuestros addons.</p>
+      </div>
+    </div>
+
+    <h1>Back to the Futbol</h1>
+    <div id="accordion2">
+      <h3>Descripción</h3>
+      <div>
+        <p>Addon con miles de partidos de futbol repetidos.<br>
+          LaLiga, Champions, Europa League, Premier League, BundesLiga, Ligue 1, Copa del Rey... y cualquier competición que te imagines de todo el futbol mundial!</p>
+      </div>
+      <h3>No carga un partido</h3>
+      <div>
+        <p>Nuestro addon de partidos en diferido consta de miles de partidos, y es posible que algún enlace, sobre todo de los partidos mas nuevos, no cargue o no funcione.<br><br>Si esto te sucede, por favor, haznoslo saber en nuestro grupo y trataremos de añadir un nuevo enlace que funcione a la mayor brevedad posible</p>
+      </div>
+    </div>
+
+
+  </body>
+</html>
