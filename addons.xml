@@ -466,7 +466,7 @@ Agradecimientos: Picapau y todo el equipo de KGI</description>
 	        <video_guide></video_guide>
 		</extension>
 	</addon>
-	<addon id="plugin.video.patanegra" name="Pata Negra" version="1.0.8" provider-name="Alex303 - Hiraya Software">
+	<addon id="plugin.video.patanegra" name="Pata Negra" version="1.0.9" provider-name="Alex303 - Hiraya Software">
 		<requires>
 			<import addon="xbmc.python" version="2.19.0" />
 			<import addon="script.module.requests" version="2.9.1" />
@@ -488,8 +488,8 @@ Agradecimientos: Picapau y todo el equipo de KGI</description>
 	Soporte desarrollo: Toni
 	Aportaciones gráficas: Bojbit, Jorge, MiKel, Toni, Alex303
 	Aportaciones musicales: Mikel, Toni, Toni Mundocine, Jorge
-	Aportaciones técnicas: Caperucitaferoz, Picapau
-	Aportaciones de contenido: Daqueen, Toni, MiKel, Iberika, Alex303, Jorge
+	Aportaciones técnicas: Picapau
+	Aportaciones de contenido: Toni, MiKel, Iberika, Alex303, Jorge, Lou, Taox
 	Sugerencias: Taox, Beatriz, MiKel, BomberLink, Chikiry, Toni
 	Testers: Jorge, Fermin, MiKel, Beatriz, Taox, Daqueen, Kiki, Zarat, Toni
 	</description>
@@ -501,8 +501,8 @@ Agradecimientos: Picapau y todo el equipo de KGI</description>
 	Soporte desarrollo: Toni
 	Aportaciones gráficas: Bojbit, Jorge, MiKel, Toni, Alex303
 	Aportaciones musicales: Mikel, Toni, Toni Mundocine, Jorge
-	Aportaciones técnicas: Caperucitaferoz, Picapau
-	Aportaciones de contenido: Daqueen, Toni, MiKel, Iberika, Alex303, Jorge
+	Aportaciones técnicas: Picapau
+	Aportaciones de contenido: Toni, MiKel, Iberika, Alex303, Jorge, Lou, Taox
 	Sugerencias: Taox, Beatriz, MiKel, BomberLink, Chikiry, Toni
 	Testers: Jorge, Fermin, MiKel, Beatriz, Taox, Daqueen, Kiki, Zarat, Toni
 	</description>
