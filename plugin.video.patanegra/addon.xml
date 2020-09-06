@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.patanegra" name="Pata Negra" version="1.1.0" provider-name="Alex303 - Hiraya Software">
+<addon id="plugin.video.patanegra" name="Pata Negra" version="1.1.1" provider-name="Alex303 - Hiraya Software">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.requests" version="2.9.1" />
@@ -21,7 +21,7 @@ Desarrollo: Alex303
 Soporte desarrollo: Toni
 Aportaciones gráficas: Bojbit, Jorge, MiKel, Toni, Alex303
 Aportaciones técnicas: Picapau
-Aportaciones de contenido: Toni, MiKel, Alex303, Jorge, Zarat, Iberika, Lou, Taox, MundoCine
+Aportaciones de contenido: Toni, MiKel, Alex303, Jorge, Zarat, Jose, Iberika, Lou, Taox, MundoCine
 Sugerencias: Taox, Beatriz, MiKel, BomberLink, Chikiry, Toni
 Testers: Jorge, Fermin, MiKel, Beatriz, Taox, Daqueen, Kiki, Zarat, Toni
 </description>
@@ -33,7 +33,7 @@ Desarrollo: Alex303
 Soporte desarrollo: Toni
 Aportaciones gráficas: Bojbit, Jorge, MiKel, Toni, Alex303
 Aportaciones técnicas: Picapau
-Aportaciones de contenido: Toni, MiKel, Alex303, Jorge, Zarat, Iberika, Lou, Taox, MundoCine
+Aportaciones de contenido: Toni, MiKel, Alex303, Jorge, Zarat, Jose, Iberika, Lou, Taox, MundoCine
 Sugerencias: Taox, Beatriz, MiKel, BomberLink, Chikiry, Toni
 Testers: Jorge, Fermin, MiKel, Beatriz, Taox, Daqueen, Kiki, Zarat, Toni
 </description>
