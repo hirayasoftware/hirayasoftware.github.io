@@ -330,7 +330,7 @@
 	        <video_guide></video_guide>
 		</extension>
 	</addon>
-	<addon id="plugin.video.dplay_dmax_dkiss" name="DPLAY" version="1.1.7" provider-name="Alex303 - Hiraya Software">
+	<addon id="plugin.video.discoveryplus" name="Discovery+" version="1.0.0" provider-name="Hiraya Software">
 		<requires>
 			<import addon="xbmc.python" version="2.19.0" />
 			<import addon="script.module.requests" version="2.9.1" />
@@ -344,12 +344,12 @@
 			<datadir zip="true">https://hirayasoftware.github.io/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en">DPLAY</summary>
-			<description lang="en">DPLAY Addon</description>
-			<disclaimer lang="en">Addon con la programación de DPLAY a la carta.</disclaimer>
-			<summary lang="es">DPLAY</summary>
-			<description lang="es">DPLAY Addon</description>
-			<disclaimer lang="es">Addon con la programación de DPLAY a la carta.</disclaimer>
+			<summary lang="en">Discovery+</summary>
+			<description lang="en">Discovery+ Addon</description>
+			<disclaimer lang="en">Addon con la programación de Discovery+ a la carta.</disclaimer>
+			<summary lang="es">Discovery+</summary>
+			<description lang="es">Discovery+ Addon</description>
+			<disclaimer lang="es">Addon con la programación de Discovery+ a la carta.</disclaimer>
 			<platform>all</platform>
 	        <website></website>
 	        <video_guide></video_guide>
